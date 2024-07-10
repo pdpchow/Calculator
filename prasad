@@ -1,0 +1,39 @@
+HI 
+drwxr-xr-x 1 admin 197121        0 Feb 21 12:35  AppData/
+lrwxrwxrwx 1 admin 197121       30 Feb 21 12:35 'Application Data' -> /c/Users/admin/AppData/Roaming/
+drwxr-xr-x 1 admin 197121        0 Jul 10 14:49  Calculator/
+drwxr-xr-x 1 admin 197121        0 Feb 21 12:35  Contacts/
+lrwxrwxrwx 1 admin 197121       58 Feb 21 12:35  Cookies -> /c/Users/admin/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 admin 197121        0 Jul  9 17:24  Desktop/
+drwxr-xr-x 1 admin 197121        0 Jun  8 23:59  Documents/
+drwxr-xr-x 1 admin 197121        0 Jul  3 14:19  Downloads/
+drwxr-xr-x 1 admin 197121        0 Feb 21 12:35  Favorites/
+drwxr-xr-x 1 admin 197121        0 Jun 18 18:34  HYDERABAD/
+drwxr-xr-x 1 admin 197121        0 Jul  9 14:27  IntelGraphicsProfiles/
+drwxr-xr-x 1 admin 197121        0 Feb 21 12:35  Links/
+lrwxrwxrwx 1 admin 197121       28 Feb 21 12:35 'Local Settings' -> /c/Users/admin/AppData/Local/
+drwxr-xr-x 1 admin 197121        0 Feb 21 12:35  Music/
+lrwxrwxrwx 1 admin 197121       24 Feb 21 12:35 'My Documents' -> /c/Users/admin/Documents/
+-rw-r--r-- 1 admin 197121 10747904 Jul  9 14:27  NTUSER.DAT
+-rw-r--r-- 1 admin 197121  1048576 Jul 10 13:56  NTUSER.DAT{3054f434-d087-11ee-a0f5-b46d8372b032}.TxR.0.regtrans-ms
+-rw-r--r-- 1 admin 197121  1048576 Jun 27 09:00  NTUSER.DAT{3054f434-d087-11ee-a0f5-b46d8372b032}.TxR.1.regtrans-ms
+-rw-r--r-- 1 admin 197121  1048576 Jun 27 09:00  NTUSER.DAT{3054f434-d087-11ee-a0f5-b46d8372b032}.TxR.2.regtrans-ms
+-rw-r--r-- 1 admin 197121    65536 Jul 10 13:56  NTUSER.DAT{3054f434-d087-11ee-a0f5-b46d8372b032}.TxR.blf
+-rw-r--r-- 1 admin 197121    65536 Feb 21 12:35  NTUSER.DAT{3054f435-d087-11ee-a0f5-b46d8372b032}.TM.blf
+-rw-r--r-- 1 admin 197121   524288 Feb 21 12:35  NTUSER.DAT{3054f435-d087-11ee-a0f5-b46d8372b032}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 admin 197121   524288 Feb 21 12:35  NTUSER.DAT{3054f435-d087-11ee-a0f5-b46d8372b032}.TMContainer00000000000000000002.regtrans-ms
+lrwxrwxrwx 1 admin 197121       66 Feb 21 12:35  NetHood -> '/c/Users/admin/AppData/Roaming/Microsoft/Windows/Network Shortcuts'/
+drwxr-xr-x 1 admin 197121        0 Feb 21 12:44  OneDrive/
+drwxr-xr-x 1 admin 197121        0 Feb 21 12:37  Pictures/
+lrwxrwxrwx 1 admin 197121       66 Feb 21 12:35  PrintHood -> '/c/Users/admin/AppData/Roaming/Microsoft/Windows/Printer Shortcuts'/
+lrwxrwxrwx 1 admin 197121       55 Feb 21 12:35  Recent -> /c/Users/admin/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 admin 197121        0 Feb 21 12:35 'Saved Games'/
+drwxr-xr-x 1 admin 197121        0 Feb 21 12:37  Searches/
+lrwxrwxrwx 1 admin 197121       55 Feb 21 12:35  SendTo -> /c/Users/admin/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 admin 197121       59 Feb 21 12:35 'Start Menu' -> '/c/Users/admin/AppData/Roaming/Microsoft/Windows/Start Menu'/
+lrwxrwxrwx 1 admin 197121       58 Feb 21 12:35  Templates -> /c/Users/admin/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 admin 197121        0 Feb 25 11:54  Videos/
+-rw-r--r-- 1 admin 197121  1572864 Feb 21 12:35  ntuser.dat.LOG1
+-rw-r--r-- 1 admin 197121  1900544 Feb 21 12:35  ntuser.dat.LOG2
+-rw-r--r-- 1 admin 197121       20 Feb 21 12:35  ntuser.ini
+All gitbash data
