@@ -2,6 +2,6 @@
 .idea/
 out/
 *.iml
-
+Ignore all .log files
 # Maven
 target/
