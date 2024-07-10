@@ -3,6 +3,6 @@
 out/
 *.iml
 #Ignore all .log files
-.log
+*.log
 # Maven
 target/
